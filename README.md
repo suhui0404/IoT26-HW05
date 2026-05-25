@@ -1,4 +1,4 @@
-# IoT26 Team J HW05- Raspberry Pi Home Assistant
+# IoT26 TeamJ HW05- Raspberry Pi Home Assistant
 
 ## 1. Objective
 
